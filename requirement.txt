@@ -1,0 +1,10 @@
+PIL
+tkinter
+python-opencv
+numpy
+facenet_pytorch
+torch
+deepface
+albumentations
+torchvision
+imgaug
